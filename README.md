@@ -6,7 +6,7 @@ First git clone this repo.
 Then open the nginx folder.
 there you'll find setup.sh file
 ``` bash
-git clone https://github.com/bubundas17/fivem-ddos-protector.git
+git clone https://github.com/DEEPCITY-PROJECT/fivem-ddos-protector.git
 ```
 ``` bash
 cd fivem-ddos-protector/nginx
